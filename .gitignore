@@ -1,0 +1,3 @@
+touch .classpath
+touch .project
+node_module/
